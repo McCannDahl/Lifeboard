@@ -10,16 +10,18 @@ Integrate with text, email
 Create something
 	Title*
 	Status - Check (inherit from children)/% (inherit from children)/Count (inherit from children)/Nothing
-	Start/End Date or duration
+	Start/End Date or duration #
 	Repeat - start/end, when
-	Priority
+	Priority #
 	Reward
 	Notification/Reminder
-	Tag(array of obejcts), Color
-	+Dependancies
-	+Children
+	Tag(array of obejcts) #
+	Color #
+	+Dependancies #
+	+Children 
 	+Share
 	
+#defaulted to view on board
 
 View
 Goals:
